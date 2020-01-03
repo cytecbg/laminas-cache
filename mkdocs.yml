@@ -19,3 +19,6 @@ nav:
 site_name: laminas-cache
 site_description: 'Caching implementation with a variety of storage options, as well as codified caching strategies for callbacks, classes, and output.'
 repo_url: 'https://github.com/laminas/laminas-cache'
+extra:
+    project: Components
+    project_url: 'https://docs.laminas.dev'
